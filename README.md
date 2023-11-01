@@ -8,6 +8,10 @@ This document provides essential information about the Password Reset Flow proje
 
 - **URL:** https://password-reset-guvi.onrender.com
 
+## API Documentation
+
+- **URL:** [POSTMAN Documentation](https://documenter.getpostman.com/view/28858691/2s9YXcdQCf)
+
 ## API Endpoints
 
 ### Signup
@@ -61,10 +65,6 @@ This API endpoint will send all avatar list to consume on user end to set profil
 ## GitHub Repository
 
 - **URL:** [Git Repository](https://github.com/Shanmugamrskfamily/password-reset-backend.git)
-
-## API Documentation
-
-- **URL:** [POSTMAN Documentation](https://documenter.getpostman.com/view/28858691/2s9YXcdQCf)
 
 ## Last Committed Hash ID
 
