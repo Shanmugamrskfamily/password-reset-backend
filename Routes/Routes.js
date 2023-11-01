@@ -10,7 +10,7 @@ router.post('/login', userController.login);
 router.post('/forgot-password', userController.forgotPassword);
 router.put('/reset-password', userController.resetPassword);
 router.get('/avatars', avatarController.getAllAvatars);
-router.post('/verify-token/:token', userController.verifyToken);
+router.get('/verify-token/:token', userController.verifyToken);
 
 // Protected route - example
 router.get('/protected-route', verifyToken, (req, res) => {
