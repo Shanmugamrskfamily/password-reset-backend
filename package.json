@@ -4,7 +4,7 @@
   "description": "user authentication with password reset",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js"
   },
   "author": "SHANMUGAM R",
   "license": "ISC",
